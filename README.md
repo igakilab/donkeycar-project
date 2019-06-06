@@ -1,1 +1,2 @@
-"# donkeycar-project" 
+#最終目標
+###donkey carを使った機械学習コンテンツの開発
