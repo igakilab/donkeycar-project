@@ -11,4 +11,4 @@
 ## 7月18日にまでに行ったこと
 ・障害物回避のプログラムを動かした
 
-![demo](\firstdemo.gif)
+![demo](firstdemo.gif)
