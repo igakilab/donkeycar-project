@@ -4,6 +4,12 @@
 ## 7月18日にまでに行ったこと
 ・障害物回避のプログラムを動かした
 
+・Jupyter notebookの使い方の勉強
+
+・下記のwebサイトを参考にした
+
+(https://www.ogis-ri.co.jp/otc/hiroba/technical/lets-try-jetbot/part4.html)
+
 ![demo](firstdemo.gif)
 
 ## 6月29日にまでに行ったこと
