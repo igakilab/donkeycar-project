@@ -1,10 +1,15 @@
 # 最終目標
 ### jetbot nanoを使った機械学習コンテンツの開発
 
+## 9月15日までに行ったこと
+・![jetbotの基本](https://github.com/NVIDIA-AI-IOT/jetbot/blob/master/notebooks/basic_motion/basic_motion.ipynb)の勉強
+
+・自宅pcにopencvの環境設定
+
 ## 9月6日までに行ったこと
 ・ライントレースのプログラムを動かすことができた。ただ、動作原理などはよくわかっていない。
 
-・この前の衝突回避と今回のライントレースの動作原理を理解すると同時に、この二つを組み合わせたものを作る予定
+・この前の衝突回避と今回のライントレースの動作原理を理解すると同時に、この二つを組み合わせたものを作る予定。
 
 ![demo](line_trace.gif)
 
