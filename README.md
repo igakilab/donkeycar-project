@@ -1,20 +1,22 @@
 # 最終目標
 ### jetbot nanoを使った機械学習コンテンツの開発
 
+## 教訓
+・電源アダプタを接続した状態で`sudo nvpmodel -m 0`で20Wで動作でき、サクサク動く
+
+## 10月9日までに行ったこと
+・障害物を発見したときに写真を撮るスクリプトの作成
+
+・データの収集を試みるも、期待度売りの動作はしなかった
+
 ## 10月3日までに行ったこと
-・横山君との情報共有
-
-## 9月30までに行ったこと
-・衝突回避のプログラムを改変して、赤いオブジェクトの時は右回りで回避するプログラムを作成中
-
-## 9月27までに行ったこと
-・annacondaにpytorchライブラリのインストール
+・横山君と知識の共有をした
 
 ## 9月26日までに行ったこと
-・pytorchの勉強の準備
+・pytorchの勉強の開始
 
 ## 9月15日までに行ったこと
-・![jetbotの基本](https://github.com/NVIDIA-AI-IOT/jetbot/blob/master/notebooks/basic_motion/basic_motion.ipynb)の勉強
+・[jetbotの基本](https://github.com/NVIDIA-AI-IOT/jetbot/blob/master/notebooks/basic_motion/basic_motion.ipynb)の勉強
 
 ・自宅pcにopencvの環境設定
 
