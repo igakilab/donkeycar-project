@@ -5,6 +5,11 @@
 ・電源アダプタを接続した状態で`sudo nvpmodel -m 0`で20Wで動作でき、サクサク動く
 
 ## 10月10日に行ったこと
+・今後は、line_traceとcollision_stopを組み合わせたものを作る
+
+・line_traceの完了(下記の動画)
+
+![demo](Line_trace_demo.gif)
 
 ・下記の障害物があったら止まるプログラム(collision_stop)が完成した。(下記の動画)
 
