@@ -4,6 +4,9 @@
 ## 教訓
 ・電源アダプタを接続した状態で`sudo nvpmodel -m 0`で20Wで動作でき、サクサク動く
 
+## 10月24日までに行ったこと
+・ゼロから作るDeep Learningの本を120ページくらいまで読んだ
+
 ## 10月17日までに行ったこと
 ・line_traceとcollision_stopを組み合わせた(line_stop)が完成した
 
