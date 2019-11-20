@@ -4,6 +4,17 @@
 ## 教訓
 ・電源アダプタを接続した状態で`sudo nvpmodel -m 0`で20Wで動作でき、サクサク動く
 
+・road_followingのspeed_gain,steering_gain,それぞれの適切なパラメータは0.29と0.07である
+
+・基本的にGUIは必要ないので、`systemctl get-default` で今の設定を確認し、`sudo systemctl set-default multi-user.target`コマンドで設定を変更する
+
+## 11月20に行ったこと
+・3つの状況判断ができるmodelの作成に成功した（下記動画）
+
+・road_followingのデータの集めなおし
+
+・これで、4つ以上の状況判断もできるようになったと考えられる
+
 ## 11月14日に行ったこと
 ・三つの状況判断の制度が悪い
 
